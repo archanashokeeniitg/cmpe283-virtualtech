@@ -1,6 +1,9 @@
 # Introduction
+CMPE 283
 
-I did the assignment myself.
+Assignment-1
+
+I did the assignment myself(015237378).
 
 ## Question 
 Your assignment is to create a Linux kernel module that will query various MSRs to determine 
@@ -33,6 +36,8 @@ Start virtual machine.
 Download relevant files and cmpe283-1.c from canvas.
 
 setup environment following https://wiki.ubuntu.com/Kernel/BuildYourOwnKernel
+
+## Outputs
 
 ```
 [ 3514.291866] CMPE 283 Assignment 1 Module Start
